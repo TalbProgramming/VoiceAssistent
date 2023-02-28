@@ -22,7 +22,7 @@ def read_string(text):
 
 
 # connection with openAI API
-openai.api_key = "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"
+openai.api_key = "MY_API_KEY"
 
 r = sr.Recognizer()
 
